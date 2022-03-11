@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique Souza</h1>
 <h3 align="center">Everyday learning something new</h3>
 
-- 🔭 I’m currently working on [Project ONG Sorrir para Down](https://github.com/henriquemod/frontend-sorrir-para-down)
+- 🔭 I’m currently working on [Apollo Discord Bot](https://github.com/henriquemod/apolloservers-discord-bot)
 
 - 🌱 I’m currently learning **React and Typescript**
 
