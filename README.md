@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Henrique Souza</h1>
+<h1 align="center">Hi, I'm Henrique Souza</h1>
 <h3 align="center">Everyday learning something new</h3>
 
 - 🔭 I’m currently working on [Apollo Discord Bot](https://github.com/henriquemod/apolloservers-discord-bot)
